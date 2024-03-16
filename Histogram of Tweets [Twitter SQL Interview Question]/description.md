@@ -1,4 +1,5 @@
 # Problem #6: Histogram of Tweets Posted per User in 2022
+[Link](https://datalemur.com/questions/sql-histogram-tweets)
 
 ### Description
 
